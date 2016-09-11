@@ -1,0 +1,19 @@
+{
+  "name": "cdn_plugin_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cdn-loader": "^0.1.7",
+    "html-webpack-cdn-plugin": "^0.1.10",
+    "html-webpack-plugin": "^2.22.0",
+    "webpack": "^1.13.2"
+  }
+}
